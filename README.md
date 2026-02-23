@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22818742)
 # Java Exception Handling Lab
 
 Java exceptions are events that occur during the execution of a program, they signal that an error or unexpected condition has occurred. Exceptions allow your program to handle these events gracefully rather than crashing. This lab is divided into several standalone sections, each containing 
